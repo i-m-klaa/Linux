@@ -16,7 +16,7 @@
 
 HOW TO SET-UP:
 copy these codes and paste them in terminal::
->cd ~/Downloads
->mv depend_installer.sh scaner.sh ~/
->chmod +x ~/depend_installer.sh
+>cd ~/Downloads &&
+>mv depend_installer.sh scaner.sh ~/ &&
+>chmod +x ~/depend_installer.sh &&
 >~/depend_installer.sh
